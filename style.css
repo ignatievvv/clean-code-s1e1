@@ -6,7 +6,7 @@
 }
 .header {
   width: 500px;
-  margin: 0 auto;
+  margin: 0 auto 16px;
   display: block;
   text-align: right;
 }
@@ -38,6 +38,7 @@
 }
 .add-task-section__wrapper {
   display: flex;
+  margin-bottom: 16px;
 }
 .completed-section,
 .todo-section {
