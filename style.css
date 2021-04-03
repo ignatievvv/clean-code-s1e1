@@ -70,7 +70,7 @@
 .button:hover,
 .add-task-section__button:hover,
 .task__button:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 /* Heading */
 .main__heading,
@@ -90,8 +90,8 @@
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
-  background: #FFF;
+  border: 1px solid #ddd;
+  background: #fff;
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
@@ -110,7 +110,7 @@
   width: 318px;
 }
 .add-task-section > .add-task-section__button:hover {
-  color: #0FC57C;
+  color: #0fc57c;
 }
 
 /* Task list */
@@ -141,7 +141,7 @@
   width: 226px;
 }
 .button_delete:hover {
-  color: #CF2323;
+  color: #cf2323;
 }
 .task__icon,
 .button__icon {
